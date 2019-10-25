@@ -1,6 +1,6 @@
 body {
     /* background: rgb(90, 87, 87); */
-    background-image: url('images/tracks5.jpg');
+    background-image: url('https://www.transitchicago.com/assets/1/6/2a819e065e1c45c0b4268621fbe47d781.jpg');
     color: grey;
 }
 
@@ -14,7 +14,7 @@ body {
 }
 
 #train-data {
-    background: rgb(94, 9, 230);
+    background: rgb(6, 1, 32);
     color: white;
     padding-top: 5px;
     margin-left: -10px;
@@ -35,7 +35,7 @@ body {
 }
 
 #heading {
-    background: rgb(94, 9, 230);
+    background: rgb(6, 1, 32);
     color: white;
     padding-top: 9px;
     margin-top: -10px;
@@ -55,7 +55,7 @@ body {
 }
 
 .jumbotron {
-    background: rgb(53, 54, 53);
+    background: rgba(48, 10, 10, 0.692);
     color: white;
 }
 
